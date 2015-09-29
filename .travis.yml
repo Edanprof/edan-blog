@@ -1,4 +1,4 @@
 language: java
 
-install: /usr/bin/true
+install: true
 script: mvn test
